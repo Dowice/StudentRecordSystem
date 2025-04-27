@@ -20,7 +20,7 @@
         input[type=text], input[type=password] {
             width: 100%;
             padding: 10px;
-            margin: 8px 0 15px 0;
+            margin: 8px 0 10px 0;
             border: 1px solid #ccc;
             border-radius: 5px;
         }
